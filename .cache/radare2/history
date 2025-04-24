@@ -1,0 +1,17 @@
+aaa
+izzz > r.lua
+0x0035c8d0
+pd
+afl > r.lua
+0x000fcea8
+pdf > r.lua
+afl > r.lua
+0x000fcea8
+pd
+0x000fcea8
+pdf > r.lua
+pdr > r.lua
+clear
+and
+end
+root
