@@ -24,4 +24,4 @@ def handle_redirect():
     with open("points.json", "w") as f:
         json.dump(data, f, indent=4)
 
-    return redirect("https://androidmodvip.io.vn/", code=302)
+    return redirect("https://www.mediafire.com/file/qssaxxqa84srjeq/%E5%85%89%E9%80%9F%E8%99%9A%E6%8B%9F%E6%9C%BA_2.4.0.apk/file?dkey=7qfidr4fmzl&r=477", code=302)
